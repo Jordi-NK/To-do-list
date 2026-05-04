@@ -2,7 +2,7 @@
 
 A simple and interactive to-do list application built with vanilla JavaScript.
 
-🔗 Live Preview: 
+🔗 Live Preview: to-do-list-one-ashy-20.vercel.app
 
 ## Preview
 <img width="440" height="539" alt="image" src="https://github.com/user-attachments/assets/06c0b71d-78d8-44f9-ad75-d610d268c64f" />
